@@ -12,7 +12,7 @@
 - 👩🏾‍🎓 Formada em Ciência e Tecnologia na UNIFESP em 2019
 - 📘 Cursando Engenharia de Computação na UNIFESP com previsão de formatura em 2022
 - 💻 Trabalhando como Cientista de Dados na AmbevTech
-- 🤓 Estudando sobre desenvolvimento web
+- 🤓 Estudando sobre técnicas de Ciência de Dados
 
 <div>
   <a href="https://github.com/DaianaKathrin">
